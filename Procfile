@@ -1,1 +1,1 @@
-web: python video_search.py
+web: python app.py
